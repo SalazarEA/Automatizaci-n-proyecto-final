@@ -1,0 +1,2 @@
+2026-06-20 20:06:38,766 [DEBUG] API request GET https://reqres.in/api/users/9999 params=None json=None
+2026-06-20 20:06:39,474 [DEBUG] API response GET https://reqres.in/api/users/9999 status=404 text={}
